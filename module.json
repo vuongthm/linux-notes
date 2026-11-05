@@ -1,0 +1,39 @@
+{
+  "id": "linux-notes",
+  "adapter": "articles",
+  "title": {
+    "vi": "Linux & Hệ thống",
+    "en": "Linux & Systems",
+    "ja": "Linuxとシステム",
+    "zh": "Linux 与系统"
+  },
+  "description": {
+    "vi": "Đi từ terminal đến bên trong hệ điều hành.",
+    "en": "From the terminal to the operating system.",
+    "ja": "端末からOSの仕組みへ。",
+    "zh": "从终端走进操作系统。"
+  },
+  "order": 60,
+  "topic": {
+    "id": "linux",
+    "label": {
+      "vi": "Linux & Hệ thống",
+      "en": "Linux & Systems",
+      "ja": "Linuxとシステム",
+      "zh": "Linux 与系统"
+    },
+    "description": {
+      "vi": "Đi từ terminal đến bên trong hệ điều hành.",
+      "en": "From the terminal to the operating system.",
+      "ja": "端末からOSの仕組みへ。",
+      "zh": "从终端走进操作系统。"
+    },
+    "color": "slate",
+    "symbol": "terminal"
+  },
+  "defaultTopics": [
+    "linux"
+  ],
+  "legacyRoutes": true,
+  "mediaNamespace": "linux-notes"
+}
