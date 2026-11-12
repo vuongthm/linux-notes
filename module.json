@@ -35,5 +35,15 @@
     "linux"
   ],
   "legacyRoutes": true,
-  "mediaNamespace": "linux-notes"
+  "mediaNamespace": "linux-notes",
+  "modules": [
+    {
+      "id": "linux-fundamentals",
+      "title": {
+        "vi": "Linux Fundamentals",
+        "en": "Linux Fundamentals"
+      },
+      "order": 10
+    }
+  ]
 }
